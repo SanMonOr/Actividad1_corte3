@@ -8,7 +8,7 @@ Documentación
  
 3. ¿Qué hace cada método? Y dónde y cómo utiliza la programación orientada a objetos.
   - Método "main": 
-      - Método principal en donde inicia propiamente el programa. 
+      - Método principal de la clase Actividad en donde inicia propiamente el programa. 
       - Declara los atributos (2 arreglos, uno de enteros y otro de dobles) y los inicializa a           discreción del usuario. 
       - Genera un menú con opciones (operaciones a realizar con la serie de números).
       - Dependiendo el caso, declara un objeto de la clase encargada de realizar la operación           seleccionada, llama el método encargado de realizar propiamente la operación y guarda el         resultado retornado por la misma para posteriormente mostrarlo en pantalla.
